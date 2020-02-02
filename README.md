@@ -1,6 +1,6 @@
-# Quasar App (boilerplate-vox)
+# Vue/Quasar Boilerplate
 
-A Quasar Framework app
+This project is a boilerplate that helps in the development of applications with vuejs and quasar framework.
 
 ## Install the dependencies
 ```bash
